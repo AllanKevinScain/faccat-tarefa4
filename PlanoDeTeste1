@@ -1,0 +1,5 @@
+# JMeter generated Header file
+Connection	keep-alive
+Accept	*/*
+Content-Type	application/json
+Accept	application/json
